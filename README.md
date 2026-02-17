@@ -1,11 +1,12 @@
 # Theory
 In this repository will be added pieces of code, different explained notions, theory
 
-## Content:
-### 1. Hooks
-   - useEffect
-   - useContext
-   - useId
-   - useRef
-   - useMemo
-   - useCallback
+## Content: 
+### Hooks 
+   0. useState
+   1. useEffect
+   2. useContext
+   3. useId
+   4. useRef
+   5. useMemo
+   6. useCallback
